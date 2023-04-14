@@ -1,4 +1,4 @@
-# Data-Visualization---Seaborn
+# Data-Visualization-Seaborn
 
 O projeto pode começa com uma introdução à biblioteca, incluindo instalação e configuração, e uma visão geral dos principais recursos e tipos de gráficos disponíveis. Em seguida, o projeto pode abordar diferentes técnicas de visualização, como plotagem de dados univariados e bivariados, box plots, heatmaps e pairplots, explorando cada uma delas em detalhes.
 
